@@ -1,1 +1,1 @@
-# query-builder
+# study-hub
